@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   name = 'User';
   age = 18;
+  btnState = false;
 }
